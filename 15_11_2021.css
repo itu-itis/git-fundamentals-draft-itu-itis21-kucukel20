@@ -1,8 +1,14 @@
 h1 {
- font-size: 24pt;
- color: red;
- text-decoration: underline;
- font-family: tahoma, helvetica, sans-serif;   
+    font-size: 24pt;
+    color: red;
+    font-family: tahoma, helvetica, sans-serif;
+    text-align: center;
+    border: thick solid red;
+    padding: 1ex;
+    width: 50%;
+    text-decoration: none;
+
+ 
 }
 em {
     font-style: normal;
